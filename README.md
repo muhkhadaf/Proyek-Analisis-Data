@@ -18,7 +18,7 @@ Sebelum menjalankan dashboard, pastikan Anda sudah menginstal beberapa dependens
 Anda bisa mengunduhnya atau melakukan clone dengan perintah berikut:
 ```bash
 git clone https://github.com/muhkhadaf/Proyek-Analisis-Data.git
-cd Proyek-Analisis-Data-Bike
+cd Proyek-Analisis-Data
 ```
 
 ### 2. Buat dan Aktifkan Virtual Environment (Opsional tapi Disarankan)
